@@ -69,7 +69,5 @@ class Test {
 		Honda honda1=new Honda("hondo 123","ats05766","akhil"); 
 		
 		System.out.println("model name "+honda1.getModelName()+ " registration number: "+honda1.getRegistrationNumber()+ " owner name "+honda1.getownerName());
-		
-		
 	}
 }
